@@ -3,19 +3,16 @@
 layout: home
 
 hero:
-  name: "Yuque-VitePress"
-  text: "文档站点解决方案"
-  tagline: 语雀 + Elog + VitePress + GitHub Actions + Vercel 持续集成
+  name: "Da的博客"
+  text: 
+  tagline: 记录逐渐秃头的日子
   actions:
     - theme: brand
-      text: 快速开始
-      link: /docs/入门指引/快速开始
-    - theme: brand
-      text: 短路由示例
-      link: /docs-shorturl/ssuhngw0yb3dgkkg
+      text: 开始阅读
+      link: /docs/快速开始
     - theme: alt
       text: GitHub
-      link: https://github.com/elog-x/yuque-vitepress
+      link: https://github.com/FirstPassion
 
 features:
   - icon: 📝

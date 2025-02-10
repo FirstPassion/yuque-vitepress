@@ -10,7 +10,7 @@
     "elog:sync-local-short": "elog sync -e .elog.env -c elog.config.shorturl.js -a elog.cache.shorturl.json",
     "elog:sync-short": "elog sync -c elog.config.shorturl.js -a elog.cache.shorturl.json",
     "elog:clean-short": "elog clean -c elog.config.shorturl.js -a elog.cache.shorturl.json",
-    "docs:dev": "vitepress dev docs",
+    "docs:dev": "vitepress dev docs --port 8585",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
